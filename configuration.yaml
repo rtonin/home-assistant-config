@@ -12,5 +12,6 @@ tts:
 automation: !include automations.yaml
 group: !include groups.yaml
 logger: !include logger.yaml
+recorder: !include recorder.yaml
 scene: !include scenes.yaml
 script: !include scripts.yaml
