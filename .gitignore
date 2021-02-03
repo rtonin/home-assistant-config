@@ -7,8 +7,16 @@
 !.gitignore
 !*.yaml
 !*.md
-!packages/**
-!blueprints/**
+!packages
+packages/*
+packages/**
+!blueprints
+blueprints/*
+blueprints/**
+
+
+!config/custom_components
+config/custom_components/*
 
 # Ignore folders
 .storage
