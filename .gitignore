@@ -8,11 +8,11 @@
 !*.yaml
 !*.md
 !packages
-packages/*
-packages/**
+!packages/*
+!packages/**
 !blueprints
-blueprints/*
-blueprints/**
+!blueprints/*
+!blueprints/**
 
 
 !config/custom_components
