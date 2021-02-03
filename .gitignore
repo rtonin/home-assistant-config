@@ -7,8 +7,8 @@
 !.gitignore
 !*.yaml
 !*.md
-!packages
-!blueprints
+!/packages/**
+!/blueprints/**
 
 # Ignore folders
 .storage
