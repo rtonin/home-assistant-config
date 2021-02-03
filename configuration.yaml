@@ -9,7 +9,8 @@ default_config:
 tts:
   - platform: google_translate
 
-group: !include groups.yaml
 automation: !include automations.yaml
-script: !include scripts.yaml
+group: !include groups.yaml
+logger: !include logger.yaml
 scene: !include scenes.yaml
+script: !include scripts.yaml
